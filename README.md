@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @LuisEncastin.
-- 🌱 I’m currently learning web development.
-- 📫 You can reach me out at https://www.linkedin.com/in/luisencastin/
-- 👌 I hope to contribute to great projects.
+👋 Hi, I’m @LuisEncastin.
+
+💻  I’m a Javascript front-end web developer with experience in the MERN Stack: MongoDB, Express, ReactJS and Node.js. 
+
+👌 I aspire to belong to an innovative company where I can contribute to great projects and create meaningful digital products.
+
+📚 My background knowledge includes skills in Front-End development libraries, responsive design (mobile first) and project management.
+
+📂 Also, I’ve experience working within cross-functional and remote teams using agile frameworks like SCRUM and tools like Asana, Trello and Slack.
+
+📫 You can reach me out at https://www.linkedin.com/in/luisencastin/
+
 
 
