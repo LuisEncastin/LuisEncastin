@@ -4,9 +4,7 @@
 
 👌 I aspire to belong to an innovative company where I can contribute to great projects and create meaningful digital products.
 
-📚 My background knowledge includes skills in Front-End development libraries, responsive design (mobile first) and project management.
-
-📂 Also, I’ve experience working within cross-functional and remote teams using agile frameworks like SCRUM and tools like Asana, Trello and Slack.
+📚 I’ve experience working within cross-functional and remote teams using agile frameworks like SCRUM and tools like Asana, Trello and Slack.
 
 📫 You can reach me out at https://www.linkedin.com/in/luisencastin/
 
