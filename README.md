@@ -2,7 +2,7 @@
 
 💻 My passion for programming has allowed me to work in companies like Ben and Frank and Zendesk.
 
-🧑‍💻 Currently I am actively working on personal projects and learning more about IA, Developer technical support,  API Automations and the e-commerce ecosystem
+🧑‍💻 Currently I am actively working on personal projects and learning more about AI, Developer technical support,  API Automations and the e-commerce ecosystem
 
 📫 You can reach me out at https://www.linkedin.com/in/luisencastin/
 
