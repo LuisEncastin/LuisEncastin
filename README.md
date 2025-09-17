@@ -1,12 +1,12 @@
-👋🏻 Hi, I’m Luis Encastin, Full stack front-end developer With experience in the MERN Stack: MongoDB, Express, ReactJS and Node.js. 
+👋🏻 Hi, I’m Luis Encastin, Full stack front-end developer With experience in the Vue.js and the MERN Stack: MongoDB, Express, ReactJS and Node.js. 
 
 💻 My passion for programming has allowed me to work in companies like Ben and Frank and Zendesk.
 
-🧑‍💻 Currently I am actively working on personal projects and learning more about backend programming, shopify and the e-commerce ecosystem
+🧑‍💻 Currently I am actively working on personal projects and learning more about IA, Developer technical support,  API Automations and the e-commerce ecosystem
 
 📫 You can reach me out at https://www.linkedin.com/in/luisencastin/
 
-👾 Gotcha! If you are a job recruiter, or you are interested on working together send me a DM with the name of this pokémon **wink**:
+👾 Gotcha! If you are a job recruiter, or you are interested on working together send me a DM with the name of this pokémon **Anti spammers method, wink**:
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠛⢀⡈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠛⢀⣀⡸⠄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
