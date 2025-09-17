@@ -6,7 +6,7 @@
 
 📫 You can reach me out at https://www.linkedin.com/in/luisencastin/
 
-👾 Gotcha! If you are a job recruiter, or you are interested on working together send me a DM with the name of this pokémon **Anti spammers method, wink**:
+👾 Gotcha! If you are a job recruiter, or you are interested on working together send me a DM with the name of this pokémon **(Anti spammers method), wink**:
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠛⢀⡈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠛⢀⣀⡸⠄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
